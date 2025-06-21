@@ -51,5 +51,6 @@ Summary of overall on-time, delayed, and cancelled flights.
 > Trend Indicators (Line Charts)
 Illustrate patterns and fluctuations in flight status over time.
 
-![image](https://github.com/user-attachments/assets/05bb581e-3f14-4815-9d30-2e1ca11f2a87)
+![image](https://github.com/user-attachments/assets/b3947417-c9f4-4705-8c1c-c48db603e1c7)
+
 
